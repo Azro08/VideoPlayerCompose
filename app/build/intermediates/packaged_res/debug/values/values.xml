@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Vid Compose</string>
+    <string name="delete">delete</string>
+    <string name="favorite_layout">Favorite</string>
+    <string name="folders_layout">Folders</string>
+    <string name="go_back">Go Back</string>
+    <string name="no_permission">Permission is not Granted!</string>
+    <string name="play_pause">Toggle Play Pause</string>
+    <string name="request_again">Request Again!</string>
+    <string name="rotate_screen">Rotate Screen</string>
+    <string name="seek_backward">Seek Backward</string>
+    <string name="seek_forward">Seek Forward</string>
+    <string name="toggle_fitScreen">Toggle Fit Screen</string>
+    <string name="videos_layout">All Videos</string>
+    <style name="Theme.VidCompose" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
